@@ -1,0 +1,38 @@
+p {
+    text-align: justify;
+    text-indent: 40px;
+    font-size: 22px;
+}
+
+h1 {
+    color: rgb(148, 65, 225);
+    font-size: 70px;
+    text-align: center;
+    font-style:normal;
+    padding-top: 2px;
+}
+
+h2 {
+    text-align: center;
+    color:#200b5a;
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+p i {
+    display: block;
+    text-indent: 0px;
+    text-align: center;
+}
+
+b {
+    display: block;
+    text-align: center;
+}
+
+body {
+    background-image: linear-gradient(to bottom, #e4c0fa, #bb6dec); 
+}
